@@ -1,4 +1,9 @@
 # module_2
+
+
+In this project EDA was performed to choose the values for the future model, predicting the math score of the students based on their living conditions.¶
+
+
 Проект "Разведывательный анализ данных"
 
 Основная задача проекта: отследить влияние условий жизни учащихся в возрасте от 15 до 22 лет на их успеваемость по математике, чтобы на ранней стадии выявлять студентов, находящихся в группе риска.
